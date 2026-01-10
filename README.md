@@ -88,9 +88,9 @@ I enjoy building scalable backend systems and clean, functional web applications
 ## 📫 Connect With Me
 
 - 📧 Email: siddheshkamthe.work@gmail.com  
-- 💼 LinkedIn: [_Add link_](https://www.linkedin.com/in/siddhesh-kamthe/)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/siddhesh-kamthe/)  
 - 💻 GitHub: _You’re already here 😄_  
-- 🧠 LeetCode: _Add link_
+- 🧠 LeetCode: (https://leetcode.com/u/Siddhesh_Kamthe/)
 
 ---
 
