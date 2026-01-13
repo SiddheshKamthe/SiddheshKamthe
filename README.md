@@ -48,6 +48,7 @@ I enjoy building scalable backend systems and clean, functional web applications
 
 ## 📌 Projects
 
+### 🔹 TalentTrakr-EmployeeManagementSystem
 - Built a **full-stack application** using **React.js (Frontend)** and **Spring Boot (Backend)**
 - Designed reusable React components and implemented routing
 - Integrated frontend with backend using Axios
